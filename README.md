@@ -18,3 +18,5 @@ let myNumber = 1
 # Opdatere fra GitHub.com
 
 ## Ny ændring - Noget nyt..?
+
+## Feature index
